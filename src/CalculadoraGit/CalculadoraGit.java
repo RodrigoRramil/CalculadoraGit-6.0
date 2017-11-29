@@ -11,7 +11,7 @@ public class CalculadoraGit {
 		setNum2(b);
 	}
 	
-/*
+
 	//método suma
 	public static int suma (int n1, int n2)
 	{
@@ -33,13 +33,13 @@ public class CalculadoraGit {
 		return resul;
 	}
 	
-	//méodo dividir
+	//método dividir
 	public static int divide (int n1, int n2)
 	{
 		int resul=getNum1()/getNum2();
 		return resul;
 	}
-*/
+
 	//método suma de cuadrados
 	public static int sumaCuadrados (int n1, int n2)
 	{
